@@ -18,6 +18,7 @@ public class MovieTicket {
         System.out.println("Ticket Price: " + ticketPrice);
         System.out.println("Number of Tickets: " + numberOfTickets);
         System.out.println("Total Cost: " + totalCost);
+        
         scanner.close();
         }
         }
